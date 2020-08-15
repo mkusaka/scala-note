@@ -1,11 +1,11 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/tim/src/github.com/mkusaka/javafx/target/scala-2.12/javafx_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/tim/src/github.com/mkusaka/scala-note/target/scala-2.12/scala-note_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tim/src/github.com/mkusaka/javafx/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tim/src/github.com/mkusaka/scala-note/target/scala-2.12/classes/Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tim/src/github.com/mkusaka/javafx/target/scala-2.12/classes/Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tim/src/github.com/mkusaka/scala-note/target/scala-2.12/classes/Main$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tim/src/github.com/mkusaka/javafx/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tim/src/github.com/mkusaka/scala-note/target/scala-2.12/classes/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tim/src/github.com/mkusaka/javafx/target/scala-2.12/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tim/src/github.com/mkusaka/scala-note/target/scala-2.12/classes/Main$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
