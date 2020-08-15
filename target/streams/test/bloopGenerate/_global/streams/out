@@ -1,4 +1,0 @@
-[debug] [scala-note-test] Classpath dependencies List()
-[debug] [scala-note-test] Dependencies from configurations List(scala-note)
-[debug] Bloop wrote the configuration of project 'scala-note-test' to '/Users/tim/src/github.com/mkusaka/scala-note/.bloop/scala-note-test.json'
-[success] Generated .bloop/scala-note-test.json
