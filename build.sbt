@@ -1,4 +1,4 @@
-name := "fuga"
+name := "scala-note"
 
 version := "0.1"
 
